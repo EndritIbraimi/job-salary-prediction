@@ -1,5 +1,3 @@
 Best Model: Naive Bayes
-Accuracy: 0.3852
-Training samples: 537
-Test samples: 135
-Features: 1000
+Accuracy: 0.3778
+Platform: Google Colab
